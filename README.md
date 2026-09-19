@@ -6,17 +6,22 @@ Trabalho de conclusão de curso. Desenvolvido no curso técnico de Administraç�
 
 ## Equipe
 
-|      Função         |   Nome 
-| Gerente de projeto  |
-| 
-|
-|
-|
-|
-|
+|      Função         |                  Nome                    |
+|---------------------|------------------------------------------|
+| Gerente de projeto  |  João Felipe Góes de Oliveira            |
+|     Scrum team      |  Angel Dominick Silveira Alves da Cruz   |
+|     Scrum team      |  sabelle da Silva Eufrasio               |
+|     Scrum team      |  Kaio Calebe Ferreira                    |
+|     Scrum team      |  Kayo Amaral Mota                        |
+|     Scrum team      |  Maria Fernanda Saes Cezar               |
+|     Scrum team      |  Melissa Pais Nunes                      |
+
 
 ## Nossa análise de riscos dentro de um projeto.
 [Riscos dentro de um projeto .pdf](https://github.com/user-attachments/files/32424196/Riscos.dentro.de.um.projeto.pdf)
+
+## Cronograma utilizado na organização das atribuições das atividades
+[Conograma tcc - Página1.pdf](https://github.com/user-attachments/files/32424454/Conograma.tcc.-.Pagina1.pdf)
 
 ## TCC completo 
 [TCC Incubadora de negocios Original (1).docx.pdf](https://github.com/user-attachments/files/32424271/TCC.Incubadora.de.negocios.Original.1.docx.pdf)
