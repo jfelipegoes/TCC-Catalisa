@@ -24,7 +24,7 @@ Com isso, a Catalisa oferecia suporte técnico, financeiro, jurídico e gerencia
 ## Nossa análise de riscos dentro de um projeto.
 [Riscos dentro de um projeto .pdf](https://github.com/user-attachments/files/32424196/Riscos.dentro.de.um.projeto.pdf)
 
-## Cronograma utilizado na organização das atribuições das atividades
+## Cronograma utilizado na organização e atribuições das atividades
 [Conograma tcc - Página1.pdf](https://github.com/user-attachments/files/32424454/Conograma.tcc.-.Pagina1.pdf)
 
 ## TCC completo 
