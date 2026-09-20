@@ -1,6 +1,10 @@
 # TCC-Catalisa
 Trabalho de conclusão de curso. Desenvolvido no curso técnico de Administração pelo Grupo Catalisa
 
+## Sobre
+O objetivo do trabalho era analisar nossas competências administrativas na gestão de uma empresa fictícia. Assim surgiu a Catalisa, uma incubadora de negócios que funcionava da seguinte maneira: a startup buscava nossa consultoria com o intuito de expandir seu empreendimento; a Catalisa, após analisar riscos e oportunidades, investia com capital próprio na startup, promovendo incentivos em áreas como divulgação, aumento de lucros, redução de custos, entre outros.
+
+Com isso, a Catalisa oferecia suporte técnico, financeiro, jurídico e gerencial a startups em fase inicial.
 
 <img width="1081" height="919" alt="WhatsApp Image 2026-09-19 at 18 20 40" src="https://github.com/user-attachments/assets/c78b2ee0-d626-4278-a3c7-f984c357188a" />
 
